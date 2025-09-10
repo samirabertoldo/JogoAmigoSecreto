@@ -3,3 +3,7 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
+Funcionalidades do projeto: 
+* Adicionar nomes de seus Amigos
+* Sortear um Nome Aleatorio 
+* Mostrar o Nome do Amigo Sorteado
